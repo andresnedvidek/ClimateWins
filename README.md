@@ -20,7 +20,7 @@ Data and Links:
 
 # Data Set: 
 Weather observations from 18 European weather stations, covering data from the late 1800s to 2022, including temperature, wind speed, snow, and global radiation.
-<a href="[https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)">Link to Data
+<a href="https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)">Link to Data
 
 # Project Deliverables:
 Submit tasks for each exercise to build a proposal for predicting weather patterns, including analysis of machine learning methods and their application to climate data.
