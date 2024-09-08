@@ -12,12 +12,14 @@ What have been the historical maximums and minimums in temperature?
 Can machine learning predict favorable or dangerous weather conditions on a specific day?
 Stakeholders:
 
-# ClimateWins: Nonprofit organization interested in climate change predictions.
+# ClimateWins: 
+Nonprofit organization interested in climate change predictions.
 Data Analyst (You): Responsible for applying machine learning techniques and delivering insights.
 European Climate Assessment & Data Set: Provides historical weather data.
 Data and Links:
 
-# Data Set: Weather observations from 18 European weather stations, covering data from the late 1800s to 2022, including temperature, wind speed, snow, and global radiation.
+# Data Set: 
+Weather observations from 18 European weather stations, covering data from the late 1800s to 2022, including temperature, wind speed, snow, and global radiation.
 Download Link: Temperature Data Set (.csv, 16.6MB)
 
 # Project Deliverables:
