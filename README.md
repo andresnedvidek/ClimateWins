@@ -1,8 +1,7 @@
-# Objective:
-Use machine learning to predict the consequences of climate change in Europe for ClimateWins, a nonprofit organization.
+# ClimateWins Machine Learning predictions 
 
 # Context:
-ClimateWins, a European nonprofit, is exploring how machine learning can help predict climate change impacts, given its limited resources and need to integrate diverse data sources, including hurricane predictions, typhoon data, and world temperatures. Your role includes training in machine learning, identifying suitable models, and applying these models to make predictions.
+In this project, I worked with a hypothetical organization called ClimateWins, a European nonprofit, to demonstrate my machine learning and data analytics skills. The project focuses on exploring both supervised and unsupervised machine learning techniques to predict the impacts of climate change. Using real-world weather station data, I applied various models to uncover insights and make predictions about future weather patterns and environmental changes.
 
 # Key Questions:
 
@@ -10,21 +9,41 @@ How can machine learning be applied to weather data to predict climate change ef
 What ethical concerns are associated with using machine learning for this project?
 What have been the historical maximums and minimums in temperature?
 Can machine learning predict favorable or dangerous weather conditions on a specific day?
-Stakeholders:
+
+● Finding new patterns in weather changes over the last 60 years.
+
+● Identifying weather patterns outside the regional norm in Europe.
+
+● Determining whether unusual weather patterns are increasing.
+
+● Generating possibilities for future weather conditions over the next 25 to 50 years based
+  on current trends.
+  
+● Determining the safest places for people to live in Europe within the next 25 to 50 years.
 
 # ClimateWins: 
-Nonprofit organization interested in climate change predictions.
-Data Analyst (You): Responsible for applying machine learning techniques and delivering insights.
+A Nonprofit organization interested in climate change predictions.
+Data Analyst: Responsible for applying machine learning techniques and delivering insights.
 European Climate Assessment & Data Set: Provides historical weather data.
-Data and Links:
+
+# Skills being showcased:
+For this project, Python was the primary programming language, and the focus was on leveraging powerful machine learning libraries such as Scikit-learn, TensorFlow, and Keras.
+The following tools and techniques were applied:
+
+● Machine Learning Models: K-Nearest Neighbors (KNN), Decision Trees, Random Forests, Convolutional Neural Networks (CNN), Recurrent Neural Networks (LSTM), and Generative Adversarial Networks (GAN).
+
+● Data Scaling: Employed to enhance model accuracy and performance.
+
+● Optimization: Used the Gradient Descent method to predict temperature trends.
+
+Code 
 
 # Data Set: 
 Weather observations from 18 European weather stations, covering data from the late 1800s to 2022, including temperature, wind speed, snow, and global radiation.
 <a href="https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)">Link to Data
 
 # Project Deliverables:
-Submit tasks for each exercise to build a proposal for predicting weather patterns, including analysis of machine learning methods and their application to climate data.
-
+The code was broken down into subsets to build a comprehensive proposal focused on predicting weather patterns. This included analyzing various machine learning methods and demonstrating their application to climate data.
 
 
 
